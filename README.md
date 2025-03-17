@@ -1,4 +1,4 @@
-🔢 Number System Converter & Bitwise Operations
+# Number System Converter & Bitwise Operations 🔢
 
 This program converts decimal, binary, and hexadecimal numbers into their respective numbering systems. It also supports bitwise operations such as XOR, OR, and AND.
 
